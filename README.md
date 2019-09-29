@@ -1,5 +1,7 @@
 # ESPNOW_ESP8266
 
+Based on WifiEspNow Library created by YOURSUNNY. Github: https://github.com/yoursunny/WifiEspNow
+
 ESP_NOW Protocol on ESP8266. 
 
 peer to peer communication between two ESPs
